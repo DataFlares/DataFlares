@@ -1,4 +1,4 @@
-### Data Flares
+# Data Flares
 
 Privacy through confusion.
 

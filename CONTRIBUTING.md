@@ -12,5 +12,5 @@ Currently, we are coding the first snippets which are soon to be uploaded in the
 
 ***
  
-Acknowledgements go to [nayafia](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) for the great CONTRIBUTING template. 
+Acknowledgements go to [nayafia](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) for the CONTRIBUTING template. 
 

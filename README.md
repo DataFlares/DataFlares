@@ -1,4 +1,18 @@
-### Hi there 👋
+### Data Flares
+
+Is a project ... short summary 2-3 sentence
+
+## Overall goal
+
+Grand Mission / Philosophy 
+
+## Contributing 
+
+## Guide Lines
+
+## License
+
+## contact
 
 <!--
 **DataFlares/DataFlares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

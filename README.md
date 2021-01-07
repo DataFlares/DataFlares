@@ -1,18 +1,37 @@
 ### Data Flares
 
-Is a project ... short summary 2-3 sentence
+Privacy through confusion.
 
-## Overall goal
+Data Flares is all about data privacy, especially tracking on the web. We are developing a software solution for simulated consumer behavior to deflect behavioral analysis and its outcome. Not preventing the flow of data - but making it unusable. 
 
-Grand Mission / Philosophy 
+## The Grand Mission
+
+We want to give people back the power over their own data by hiding it in simulation.
+
+## The Project
+
+Ideas
+how does it work
+roadmap
+
+We found our niche as a solution that doesn’t block tracking but blurs with additional data. That works not purely random, but with a controlled random simulation. An approach that hasn’t been seen before.
+
+(Bild vom aufbau)
 
 ## Contributing 
 
-## Guide Lines
+Contributing
+community
+Guide Lines
 
 ## License
 
+MIT
+
 ## contact
+email
+carrd
+GROW
 
 <!--
 **DataFlares/DataFlares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

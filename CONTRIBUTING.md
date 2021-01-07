@@ -8,8 +8,9 @@ Following these guidelines helps to communicate that you respect the time of the
 
 We are in a very early stage, so we mainly need expertise in coding and developing from scratch.
 
-Currently, we are coding the first snippets which are soon to be uploaded in the repository. If you are interested in laying the foundations with us, we appreciate anybody to contact us already via . Besides, we are looking forward to collaborating with everybody that joins as at a later stage. As soon as the project increasese in traffic and size we will update these guidelines accordingly. 
+Currently, we are coding the first snippets which are soon to be uploaded in the repository. If you are interested in laying the foundations with us, we appreciate anybody to contact us already via [letsdothis@dataflares.com](mailto:letsdothis@dataflares.com). Besides, we are looking forward to collaborating with everybody that joins at a later stage. As soon as the project increasese in traffic and size we will update these guidelines accordingly. 
 
-
+***
+ 
 Acknowledgements go to [nayafia](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) for the great CONTRIBUTING template. 
 

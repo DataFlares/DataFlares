@@ -15,24 +15,21 @@ This is exactly where our philosophy comes in. Instead of preventing tracking, w
 Now privacy can be restored while surfing and the user has the chance to decide by him- or herself if he or she wants to be tracked or not. 
 
 ## The Project
-The idea of Data Flares was born during a late-night discussion on a trip through Colombia. We came up with an interesting approach to data privacy, and a couple of months later and back in Germany, we decided to give it a try.
+The idea of Data Flares was born during a late-night discussion on a trip through Colombia. We came up with an interesting approach to data privacy, and a couple of months later and back in Germany, we decided to give it a try. In contrary to common approaches (e.g. AdBlocker, Ghostery), our solution doesn’t block tracking but blurs with additional data. That works not purely random, but with a controlled random simulation as close to the user side as possible.
 
-In contrary to common approaches (e.g. AdBlocker, Ghostery), our solution doesn’t block tracking but blurs with additional data. That works not purely random, but with a controlled random simulation as close to the user side as possible.
-
-An approach that hasn’t been seen before.
-
+#### Structure 
 The software is divided into two components
 
-- a browser extension that executes planned actions in the browser without the user having to take action (JAMES.js)
-- an algorithm that generates simulated user behavior and converts it into commands that the runner can execute (SOPHIE.js)
+- a browser extension that executes planned instructions in the browser without the user having to take action (JAMES.js)
+- an algorithm that generates simulated user behavior and converts it into instructions that JAMES can execute (SOPHIE.js)
 
-While JAMES is installed in the user's browser, SOPHIE is supposed to run on a server. This way, JAMES can always get the latest instructions from SOPHIE and benefit from new developments without the user having to update.
+While JAMES is installed in the user's browser, SOPHIE is supposed to run on a server. This way, JAMES can always get the latest instructions from SOPHIE and benefit from new developments without the user having to update persistently. For detailes specifications for the two components refer to XXXX
 
-Roadmap:
+#### Roadmap
+We are currently in pre alpha state, in other words we are just getting started. the goal is to have a beta version by mid 2021. 
 
-- Build JAMES.
-- Build SOPHIE.
-- Make SOPHIE good.
+- Build minimum working versions of JAMES and SOPHIE by February 2021
+- Upgrade JAMES to effective and fast execution and SOPHIE to good behavior generation by June 2021 
 
 ## Contributing 
 

@@ -1,0 +1,50 @@
+table, td, th {    
+    border: 1px solid #DDDDDD;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top:10px;
+}
+
+th, td {
+    padding: 15px;
+}
+
+input[type=text] {
+    padding: 2px;
+}
+
+table thead {
+    background-color: #4c8ebf;
+    color:#FFFFFF;
+}
+
+#progress_bar {
+    display: none;
+}
+
+.popup_buttons {
+    text-decoration:none;
+    background-color:#000000;
+    color:#FFFFFF;
+    padding:5px;
+}
+
+#input_text_fields {
+    margin-bottom:10px;
+}
+
+#continue_script {
+    display: none;
+}
+
+.hidden_column {
+    display:none;
+}
+
+#indicator {
+    display: none;
+}

@@ -23,7 +23,7 @@ The software is divided into two components
 - a browser extension that executes planned instructions in the browser without the user having to take action (JAMES)
 - an algorithm that generates simulated user behavior and converts it into instructions that JAMES can execute (SOPHIE)
 
-While JAMES is installed in the user's browser, SOPHIE is supposed to run on a server. This way, JAMES can always get the latest instructions from SOPHIE and benefit from new developments without the user having to update persistently. For detailes specifications for the two components refer to XXXX
+While JAMES is installed in the user's browser, SOPHIE is supposed to run on a server. This way, JAMES can always get the latest instructions from SOPHIE and benefit from new developments without the user having to update persistently. Detailed specifications for the two components will follow.
 
 #### Roadmap
 We are currently in pre alpha state, in other words we are just getting started. the goal is to have a beta version by mid 2021. 

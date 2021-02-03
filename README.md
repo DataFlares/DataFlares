@@ -20,15 +20,17 @@ The idea of Data Flares was born during a late-night discussion on a trip throug
 #### Structure 
 The software is divided into two components
 
-- a browser extension that executes planned instructions in the browser without the user having to take action (JAMES.js)
-- an algorithm that generates simulated user behavior and converts it into instructions that JAMES can execute (SOPHIE.js)
+- a browser extension that executes planned instructions in the browser without the user having to take action (JAMES)
+- an algorithm that generates simulated user behavior and converts it into instructions that JAMES can execute (SOPHIE)
 
 While JAMES is installed in the user's browser, SOPHIE is supposed to run on a server. This way, JAMES can always get the latest instructions from SOPHIE and benefit from new developments without the user having to update persistently. For detailes specifications for the two components refer to XXXX
 
 #### Roadmap
 We are currently in pre alpha state, in other words we are just getting started. the goal is to have a beta version by mid 2021. 
 
-- Build minimum working versions of JAMES and SOPHIE by February 2021
+- Build minimum working version of JAMES by February 2021 - done!
+- Build minimum working version of SOPHIE by March 2021
+- Add more features to JAMES by April 2021
 - Upgrade JAMES to effective and fast execution and SOPHIE to good behavior generation by June 2021 
 
 ## Contributing 
